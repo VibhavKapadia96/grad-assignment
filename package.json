@@ -1,0 +1,17 @@
+{
+    "name": "new-project",
+    "description": "new-project-description",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "dependencies": {
+        "diet": "^0.9.29",
+        "diet-cookies": "^0.2.0",
+        "diet-static": "^2.2.0",
+        "ect": "^0.5.9",
+        "mime": "^2.3.1"
+    }
+}
